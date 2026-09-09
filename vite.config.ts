@@ -2,6 +2,7 @@ import tailwindcss from '@tailwindcss/vite';
 import react from '@vitejs/plugin-react';
 import fs from 'fs';
 import path from 'path';
+base: '/-i-n-n-c-C-ng-Nguy-t/',
 import {defineConfig, Plugin} from 'vite';
 
 // LINT.IfChange(aistudio_media_plugin)

@@ -1,0 +1,6 @@
+{
+  "name": "Hệ Thống Quản Trị Doanh Nghiệp ERP",
+  "description": "Giải pháp ERP toàn diện cho Cửa hàng điện nước Cường Nguyệt: Quản lý Bán hàng, Mua hàng & Kho đa kho (Barcode/FIFO), Kế toán & Tài chính TT78, Quản lý Sản xuất BOM và Đồng bộ Google Sites / Google Sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
